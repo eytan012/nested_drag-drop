@@ -1,0 +1,28 @@
+{
+  "name": "menu_builder_01",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "core-js": "^3.6.5",
+    "he-tree-vue": "^2.0.10",
+    "lodash": "^4.17.21",
+    "vue": "^2.6.11",
+    "vue-draggable-nested-tree": "^3.0.0-beta2",
+    "vuedraggable": "^2.24.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
